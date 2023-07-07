@@ -7,7 +7,7 @@ import {
 import locales from "./locales";
 
 export default defineConfig({
-  base: "/vitepress-blog/",
+  base: "/vitepress-demo/",
   title: "jiushi21-blog",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   // 默认主题
