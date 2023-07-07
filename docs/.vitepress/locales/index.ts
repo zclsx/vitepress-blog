@@ -1,5 +1,5 @@
-import zh from './zh.js'
+import zc from "./zc.js";
 
 export default {
-  zh,
-}
+  zc,
+};

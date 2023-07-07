@@ -1,10 +1,9 @@
 # 关于我
 
-> 2023-05-21 23:24:38
+> 2023-07-07 16:16:34
 
 这里介绍下自己
 
-以及一些平时的碎碎念和牢骚
+希望自己能不断前进
 
-<preview path="./A.vue" title="title" description="component description content"></preview>
 
